@@ -93,11 +93,7 @@ header{
   background: #08c;
   border-radius: 4px;
   padding: 12px;
-  color: #fff;
-}
-
-.works a:hover {
-  opacity: 0.8;
+  color: ;
 }
 
 footer p {
